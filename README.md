@@ -2,7 +2,7 @@
 
 Hello there. 
 
-In this assignment I was need to create two financial analysis tools with a single Jupyter notebook:
+In this assignment the given task was to create two financial analysis tools with a single Jupyter notebook:
 
 A financial planner for emergencies. The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
 
